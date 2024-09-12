@@ -1,0 +1,14 @@
+.contraste {
+    background-color: black;
+    color: yellow;
+}
+
+.contraste input, .contraste select {
+    background-color: black;
+    color: white;
+}
+
+.contraste .btn {
+    background-color: yellow;
+    color: black;
+}
